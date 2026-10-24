@@ -2091,7 +2091,9 @@ elements:
   slug: chapter-6-section-6a
   editorial_preamble: |-
     > [!TIP]
-    > Statistics about 6:6a applications are available via the [Arbetsmiljö project](https://arbetsmiljo.github.io/).
+    > Statistics about 6:6a applications are available via the Arbetsmiljö project.
+    >
+    > See [https://arbetsmiljo.github.io/66a/](https://arbetsmiljo.github.io/66a/)
 - type: paragraph_text
   text:
     sv: |-
